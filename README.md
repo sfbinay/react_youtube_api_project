@@ -19,6 +19,6 @@ This project is a react.js application that uses youtube features together with 
 ![](screenshots/search.jpg)
 ### 3-Detail Page
 ![](screenshots/video-detail-page.jpg)
-### 4-Liked and Last Videos
+### 4-Liked and Last Videos (Home Page)
 ![](screenshots/liked-and-history.jpg)
 
